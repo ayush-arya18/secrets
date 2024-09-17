@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is remote change made to the file
+=======
+hello there this is the local change made 
+>>>>>>> 7b7263c (changes)
